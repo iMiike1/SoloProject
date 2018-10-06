@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BattleRoyale-7069.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\BattleRoyaleC\BattleRoyale\Intermediate\Build\Win64\UE4Editor\Development\BattleRoyale\BattleRoyale.cpp.obj"
+"E:\BattleRoyaleC\BattleRoyale\Intermediate\Build\Win64\UE4Editor\Development\BattleRoyale\Weapon.cpp.obj"
+"E:\BattleRoyaleC\BattleRoyale\Intermediate\Build\Win64\UE4Editor\Development\BattleRoyale\BattleRoyale.init.gen.cpp.obj"
+"E:\BattleRoyaleC\BattleRoyale\Intermediate\Build\Win64\UE4Editor\Development\BattleRoyale\Weapon.gen.cpp.obj"
+"E:\BattleRoyaleC\BattleRoyale\Intermediate\Build\Win64\UE4Editor\Development\BattleRoyale\PCLaunch.rc.res"
+/OUT:"E:\BattleRoyaleC\BattleRoyale\Intermediate\Build\Win64\UE4Editor\Development\BattleRoyale\UE4Editor-BattleRoyale-7069.lib"

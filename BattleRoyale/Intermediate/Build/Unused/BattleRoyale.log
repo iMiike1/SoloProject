@@ -1,0 +1,8 @@
+﻿  Creating makefile for hot reloading BattleRoyaleEditor (modules to compile have changed)
+  Compiling game modules for hot reload
+  Using Visual Studio 2017 14.15.26726 toolchain (D:\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726) and Windows 10.0.17134.0 SDK (D:\Windows Kits\10).
+  Parsing headers for BattleRoyaleEditor
+    Running UnrealHeaderTool "E:\BattleRoyaleC\BattleRoyale\BattleRoyale.uproject" "E:\BattleRoyaleC\BattleRoyale\Intermediate\Build\Win64\BattleRoyaleEditor\Development\BattleRoyaleEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+E:/BattleRoyaleC/BattleRoyale/Source/BattleRoyale/Weapon.h(20): error : Class 'AMasteringProjectile' not found.
+EXEC : error : UnrealHeaderTool failed for target 'BattleRoyaleEditor' (platform: Win64, module info: E:\BattleRoyaleC\BattleRoyale\Intermediate\Build\Win64\BattleRoyaleEditor\Development\BattleRoyaleEditor.uhtmanifest, exit code: OtherCompilationError (5)).
+D:\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.MakeFile.Targets(44,5): error MSB3075: The command ""E:\Epic Games\UE_4.20\Engine\Build\BatchFiles\Build.bat" BattleRoyaleEditor Win64 Development "E:\BattleRoyaleC\BattleRoyale\BattleRoyale.uproject" -WaitMutex -FromMsBuild" exited with code 5. Please verify that you have sufficient rights to run this command.

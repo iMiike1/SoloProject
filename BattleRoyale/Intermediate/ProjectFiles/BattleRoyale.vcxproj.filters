@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\BattleRoyale.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{5D483DF2-82F2-4AAD-9CA6-0065099E6651}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\BattleRoyale.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\BattleRoyaleEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{41F7F8E2-60C1-4CD7-87F5-CB62188F7F04}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\BattleRoyale">
+			<UniqueIdentifier>{82B804AD-392B-4359-BE50-B1F888413E9B}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\BattleRoyale\BattleRoyale.Build.cs">
+			<Filter>Source\BattleRoyale</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\BattleRoyale\BattleRoyale.cpp">
+			<Filter>Source\BattleRoyale</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BattleRoyale\BattleRoyale.h">
+			<Filter>Source\BattleRoyale</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\BattleRoyale\Weapon.cpp">
+			<Filter>Source\BattleRoyale</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BattleRoyale\Weapon.h">
+			<Filter>Source\BattleRoyale</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
