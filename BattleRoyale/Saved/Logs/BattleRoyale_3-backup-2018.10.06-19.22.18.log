@@ -1,0 +1,1836 @@
+﻿Log file open, 10/06/18 19:13:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: BattleRoyale
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.254233
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.043s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  -game
+LogInit: Base Directory: E:/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.06-18.13.59:521][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.06-18.13.59:521][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.06-18.13.59:530][  0]LogHAL: Display: Platform has ~ 32 GB [34286813184 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.06-18.13.59:530][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.06-18.13.59:530][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.06-18.13.59:530][  0]LogInit: Computer: DESKTOP-IN8IR7B
+[2018.10.06-18.13.59:530][  0]LogInit: User: Mike
+[2018.10.06-18.13.59:530][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.06-18.13.59:530][  0]LogInit: High frequency timer resolution =4.101564 MHz
+[2018.10.06-18.13.59:530][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.10.06-18.13.59:530][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.06-18.13.59:530][  0]LogMemory: Process Physical Memory: 100.69 MB used, 100.69 MB peak
+[2018.10.06-18.13.59:530][  0]LogMemory: Process Virtual Memory: 87.37 MB used, 87.37 MB peak
+[2018.10.06-18.13.59:530][  0]LogMemory: Physical Memory: 9291.08 MB used,  23407.37 MB free, 32698.45 MB total
+[2018.10.06-18.13.59:530][  0]LogMemory: Virtual Memory: 4636.48 MB used,  23407.37 MB free, 134217728.00 MB total
+[2018.10.06-18.13.59:540][  0]LogInit: Using OS detected language (en-GB).
+[2018.10.06-18.13.59:540][  0]LogInit: Using OS detected locale (en-GB).
+[2018.10.06-18.13.59:541][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.10.06-18.13.59:818][  0]LogStreaming: Display: Took  0.277s to InitEngineTextLocalization.
+[2018.10.06-18.13.59:832][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.06-18.13.59:832][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.06-18.13.59:837][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.06-18.13.59:837][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.06-18.13.59:883][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.10.06-18.13.59:883][  0]LogD3D11RHI:       8079/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.10.06-18.13.59:885][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.06-18.13.59:885][  0]LogD3D11RHI:       0/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.06-18.13.59:885][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.06-18.13.59:890][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.06-18.13.59:890][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.06-18.13.59:890][  0]LogWindows: EnumDisplayDevices:
+[2018.10.06-18.13.59:890][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2018.10.06-18.13.59:891][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.10.06-18.13.59:891][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.10.06-18.13.59:891][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.10.06-18.13.59:891][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.10.06-18.13.59:891][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.10.06-18.13.59:891][  0]LogD3D11RHI:   Driver Version: 416.16 (internal:25.21.14.1616, unified:416.16)
+[2018.10.06-18.13.59:891][  0]LogD3D11RHI:      Driver Date: 10-2-2018
+[2018.10.06-18.13.59:891][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2018.10.06-18.13.59:919][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.06-18.13.59:936][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.10.06-18.14.00:032][  0]LogShaderCompilers: Guid format shader working directory is 10 characters bigger than the processId version (D:/GitHub/SoloProject/BattleRoyale/Intermediate/Shaders/WorkingDirectory/13396/).
+[2018.10.06-18.14.00:033][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Mike/AppData/Local/Temp/UnrealShaderWorkingDir/F42CDA10491D29DC20329BBB756E3838/'.
+[2018.10.06-18.14.00:220][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.06-18.14.00:231][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.06-18.14.00:241][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.06-18.14.00:244][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.06-18.14.00:244][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.06-18.14.00:272][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.06-18.14.00:272][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.06-18.14.00:272][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.06-18.14.00:808][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.06-18.14.00:845][  0]LogDerivedDataCache: Loaded boot cache 0.04s 67MB C:/Users/Mike/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.06-18.14.00:845][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Mike/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.06-18.14.00:845][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/GitHub/SoloProject/BattleRoyale/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.06-18.14.00:845][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.06-18.14.00:845][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/GitHub/SoloProject/BattleRoyale/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.06-18.14.00:845][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.06-18.14.00:855][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.06-18.14.00:867][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Mike/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.06-18.14.00:867][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.06-18.14.00:867][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.06-18.14.00:880][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.06-18.14.00:881][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.06-18.14.00:881][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.06-18.14.00:909][  0]LogInit: Using OS detected language (en-GB).
+[2018.10.06-18.14.00:909][  0]LogInit: Using OS detected locale (en-GB).
+[2018.10.06-18.14.00:909][  0]LogTextLocalizationManager: No localization for 'en-GB' exists, so 'en' will be used for the language.
+[2018.10.06-18.14.00:909][  0]LogTextLocalizationManager: No localization for 'en-GB' exists, so 'en' will be used for the locale.
+[2018.10.06-18.14.01:142][  0]LogStreaming: Display: Took  0.233s to InitGameTextLocalization.
+[2018.10.06-18.14.01:147][  0]LogAssetRegistry: FAssetRegistry took 0.0033 seconds to start up
+[2018.10.06-18.14.01:315][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.024801 seconds
+[2018.10.06-18.14.01:387][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.06-18.14.01:471][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.06-18.14.01:472][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.06-18.14.01:472][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.06-18.14.01:472][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.06-18.14.01:472][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.06-18.14.01:483][  0]LogNetVersion: BattleRoyale 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2125588587)
+[2018.10.06-18.14.01:804][  0]LogMoviePlayer: Initializing movie player
+[2018.10.06-18.14.01:963][  0]SourceControl: Source control is disabled
+[2018.10.06-18.14.01:963][  0]SourceControl: Source control is disabled
+[2018.10.06-18.14.01:963][  0]SourceControl: Source control is disabled
+[2018.10.06-18.14.02:075][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.06-18.14.02:118][  0]LogOcInput: OculusInput pre-init called
+[2018.10.06-18.14.02:124][  0]LogUObjectArray: 42174 objects as part of root set at end of initial load.
+[2018.10.06-18.14.02:124][  0]LogUObjectAllocator: 7434656 out of 0 bytes used by permanent object pool.
+[2018.10.06-18.14.02:124][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.06-18.14.02:163][  0]LogEngine: Initializing Engine...
+[2018.10.06-18.14.02:163][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.06-18.14.02:175][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.06-18.14.02:175][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.06-18.14.02:175][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.06-18.14.02:175][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.06-18.14.02:288][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.06-18.14.02:296][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.06-18.14.02:332][  0]LogInit: FAudioDevice initialized.
+[2018.10.06-18.14.02:343][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.06-18.14.02:406][  0]LogDerivedDataCache: Saved boot cache 0.06s 67MB C:/Users/Mike/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.06-18.14.02:413][  0]LogInit: Texture streaming: Enabled
+[2018.10.06-18.14.02:524][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.06-18.14.02:524][  0]LogInit: Display: Game Engine Initialized.
+[2018.10.06-18.14.02:524][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.06-18.14.02:525][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.06-18.14.02:525][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.06-18.14.02:525][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.06-18.14.02:525][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.06-18.14.02:534][  0]LogInit: Display: Starting Game.
+[2018.10.06-18.14.02:534][  0]LogNet: Browse: /Game/Map/MainMenu?Name=Player
+[2018.10.06-18.14.02:534][  0]LogLoad: LoadMap: /Game/Map/MainMenu?Name=Player
+[2018.10.06-18.14.02:563][  0]LogAIModule: Creating AISystem for world MainMenu
+[2018.10.06-18.14.02:563][  0]LogLoad: Game class is 'MenuGameMode_C'
+[2018.10.06-18.14.02:564][  0]LogWorld: Bringing World /Game/Map/MainMenu.MainMenu up for play (max tick rate 0) at 2018.10.06-19.14.02
+[2018.10.06-18.14.02:564][  0]LogWorld: Bringing up level for play took: 0.000331
+[2018.10.06-18.14.02:564][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.06-18.14.02:566][  0]LogLoad: Took 0.032362 seconds to LoadMap(/Game/Map/MainMenu)
+[2018.10.06-18.14.02:627][  0]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:1).
+[2018.10.06-18.14.02:628][  0]LogLoad: (Engine Initialization) Total time: 4.10 seconds
+[2018.10.06-18.14.02:628][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.06-18.14.02:648][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.06-18.14.04:113][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-18.14.04:195][ 96]LogInit: WinSock: I am DESKTOP-IN8IR7B (192.168.0.10:0)
+[2018.10.06-18.14.04:387][108]LogOnline: Warning: OSS: Ignoring game search request while one is pending
+[2018.10.06-18.14.04:532][117]LogOnline: Warning: OSS: Ignoring game search request while one is pending
+[2018.10.06-18.14.04:693][127]LogOnline: Warning: OSS: Ignoring game search request while one is pending
+[2018.10.06-18.14.04:823][135]LogOnline: Warning: OSS: Ignoring game search request while one is pending
+[2018.10.06-18.14.05:000][146]LogOnline: Warning: OSS: Ignoring game search request while one is pending
+[2018.10.06-18.14.05:419][172]LogOnline: Warning: OSS: Ignoring game search request while one is pending
+[2018.10.06-18.14.05:581][182]LogOnline: Warning: OSS: Ignoring game search request while one is pending
+[2018.10.06-18.14.05:742][192]LogOnline: Warning: OSS: Ignoring game search request while one is pending
+[2018.10.06-18.14.05:887][201]LogOnline: Warning: OSS: Ignoring game search request while one is pending
+[2018.10.06-18.14.06:048][211]LogOnline: Warning: OSS: Ignoring game search request while one is pending
+[2018.10.06-18.14.06:177][219]LogOnline: Warning: OSS: Ignoring game search request while one is pending
+[2018.10.06-18.14.06:306][227]LogOnline: Warning: OSS: Ignoring game search request while one is pending
+[2018.10.06-18.14.06:435][235]LogOnline: Warning: OSS: Ignoring game search request while one is pending
+[2018.10.06-18.14.10:113][463]LogNet: Browse: 192.168.0.10//Game/Map/MainMenu
+[2018.10.06-18.14.10:114][463]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.10.06-18.14.10:114][463]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2018.10.06-18.14.10:114][463]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.10.06-18.14.10:114][463]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.10.06-18.14.10:114][463]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.10.06-18.14.10:114][463]LogNet: Game client on port 7777, rate 10000
+[2018.10.06-18.14.10:129][464]LogHandshake: SendChallengeResponse. Timestamp: 15.311610, Cookie: 190233165086164211221020147031245239020106186153133217099109
+[2018.10.06-18.14.10:145][465]LogNetVersion: BattleRoyale 1.0.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2249942590)
+[2018.10.06-18.14.10:145][465]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 192.168.0.10:7777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_0, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.10.06-18.14.10:178][467]LogNet: Welcomed by server (Level: /Game/Map/WorldComposition/WorldMap, Game: /Game/Blueprints/Stream/WorldCompGameMode.WorldCompGameMode_C)
+[2018.10.06-18.14.10:178][467]LogLoad: LoadMap: 192.168.0.10//Game/Map/WorldComposition/WorldMap?game=/Game/Blueprints/Stream/WorldCompGameMode.WorldCompGameMode_C
+[2018.10.06-18.14.10:338][467]LogAIModule: Creating AISystem for world WorldMap
+[2018.10.06-18.14.10:338][467]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.10.06-18.14.10:339][467]LogWorld: Bringing World /Game/Map/WorldComposition/WorldMap.WorldMap up for play (max tick rate 0) at 2018.10.06-19.14.10
+[2018.10.06-18.14.10:339][467]LogWorld: Bringing up level for play took: 0.000617
+[2018.10.06-18.14.10:340][467]LogLoad: Took 0.161783 seconds to LoadMap(/Game/Map/WorldComposition/WorldMap)
+[2018.10.06-18.14.10:478][476]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.10:495][477]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.10:508][478]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.10:521][479]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.10:538][480]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.10:538][480]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.10:554][481]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.10:554][481]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.10:569][482]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.10:569][482]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.10:586][483]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.10:586][483]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.10:602][484]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.10:602][484]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.10:618][485]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.10:618][485]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.10:634][486]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.10:634][486]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.10:650][487]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.10:650][487]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.10:666][488]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.10:666][488]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.10:682][489]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.10:683][489]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.10:699][490]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.10:699][490]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.10:715][491]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.10:715][491]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.10:731][492]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.10:731][492]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.10:747][493]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.10:747][493]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.10:763][494]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.10:763][494]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.10:778][495]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.10:779][495]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.10:795][496]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.10:795][496]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.10:811][497]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.10:811][497]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.10:827][498]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.10:827][498]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.10:843][499]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.10:843][499]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.10:859][500]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.10:859][500]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.10:876][501]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.10:876][501]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.10:892][502]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.10:892][502]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.10:908][503]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.10:908][503]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.10:924][504]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.10:924][504]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.10:940][505]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.10:940][505]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.10:957][506]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.10:957][506]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.10:973][507]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.10:973][507]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.10:989][508]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.10:989][508]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:005][509]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:005][509]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:021][510]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:021][510]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:037][511]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:037][511]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:053][512]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:054][512]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:070][513]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:070][513]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:086][514]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:086][514]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:102][515]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:102][515]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:118][516]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:118][516]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:134][517]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:134][517]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:150][518]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:150][518]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:166][519]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:166][519]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:182][520]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:182][520]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:198][521]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:198][521]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:214][522]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:214][522]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:230][523]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:230][523]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:247][524]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:247][524]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:263][525]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:263][525]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:279][526]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:279][526]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:295][527]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:295][527]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:311][528]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:311][528]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:327][529]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:327][529]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:344][530]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:344][530]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:360][531]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:360][531]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:360][531]LogNet: NotifyStreamingLevelUnload: Level /Game/Map/WorldComposition/Map1.Map1:PersistentLevel
+[2018.10.06-18.14.11:360][531]LogNet: NotifyStreamingLevelUnload: Level /Game/Map/WorldComposition/Map2.Map2:PersistentLevel
+[2018.10.06-18.14.11:379][532]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:379][532]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:395][533]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:395][533]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:411][534]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:411][534]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:427][535]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:427][535]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:444][536]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:444][536]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:460][537]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:460][537]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:476][538]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:476][538]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:492][539]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:492][539]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:508][540]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:508][540]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:523][541]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:523][541]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:540][542]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:540][542]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:556][543]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:556][543]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:572][544]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:572][544]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:588][545]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:588][545]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:605][546]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:605][546]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:621][547]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:621][547]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:637][548]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:637][548]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:653][549]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:653][549]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:670][550]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:670][550]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:686][551]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:686][551]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:701][552]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:701][552]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:718][553]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:718][553]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:734][554]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:734][554]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:750][555]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:750][555]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:766][556]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:766][556]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:782][557]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:782][557]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:798][558]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:798][558]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:815][559]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:815][559]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:831][560]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:831][560]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:847][561]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:847][561]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:863][562]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:863][562]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:879][563]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:879][563]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:895][564]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:896][564]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:911][565]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:911][565]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:927][566]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:927][566]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:943][567]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:943][567]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:959][568]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:959][568]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:975][569]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:975][569]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.11:992][570]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.11:992][570]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:008][571]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:008][571]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:024][572]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:024][572]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:040][573]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:040][573]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:056][574]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:056][574]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:072][575]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:072][575]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:089][576]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:089][576]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:105][577]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:105][577]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:121][578]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:121][578]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:137][579]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:137][579]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:153][580]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:153][580]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:169][581]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:169][581]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:186][582]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:186][582]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:202][583]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:202][583]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:218][584]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:218][584]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:234][585]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:234][585]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:250][586]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:250][586]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:266][587]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:266][587]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:282][588]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:282][588]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:298][589]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:298][589]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:314][590]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:314][590]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:330][591]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:330][591]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:346][592]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:346][592]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:362][593]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:362][593]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:379][594]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:379][594]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:395][595]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:395][595]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:411][596]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:411][596]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:427][597]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:427][597]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:443][598]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:443][598]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:459][599]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:460][599]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:476][600]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:476][600]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:492][601]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:492][601]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:508][602]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:508][602]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:524][603]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:524][603]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:540][604]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:540][604]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:556][605]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:557][605]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:573][606]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:573][606]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:589][607]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:589][607]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:605][608]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:605][608]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:621][609]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:621][609]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:637][610]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:638][610]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:653][611]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:653][611]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:669][612]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:669][612]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:685][613]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:685][613]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:701][614]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:701][614]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:717][615]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:717][615]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:733][616]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:733][616]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:750][617]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:750][617]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:766][618]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:766][618]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:782][619]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:782][619]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:798][620]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:798][620]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:814][621]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:814][621]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:830][622]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:831][622]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:847][623]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:847][623]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:863][624]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:863][624]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:879][625]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:879][625]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:895][626]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:895][626]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:911][627]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:911][627]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:928][628]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:928][628]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:944][629]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:944][629]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:960][630]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:960][630]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:976][631]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:976][631]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.12:992][632]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.12:992][632]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:008][633]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:008][633]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:024][634]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:024][634]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:040][635]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:040][635]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:056][636]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:056][636]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:072][637]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:072][637]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:088][638]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:088][638]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:104][639]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:104][639]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:121][640]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:121][640]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:137][641]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:137][641]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:153][642]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:153][642]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:170][643]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:170][643]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:186][644]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:186][644]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:202][645]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:202][645]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:218][646]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:218][646]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:234][647]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:234][647]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:250][648]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:250][648]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:266][649]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:266][649]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:282][650]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:282][650]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:298][651]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:298][651]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:315][652]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:315][652]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:331][653]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:331][653]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:347][654]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:347][654]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:363][655]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:363][655]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:379][656]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:379][656]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:396][657]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:396][657]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:411][658]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:411][658]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:427][659]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:427][659]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:443][660]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:443][660]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:459][661]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:459][661]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:475][662]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:475][662]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:491][663]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:492][663]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:508][664]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:508][664]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:524][665]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:524][665]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:540][666]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:540][666]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:556][667]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:556][667]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:572][668]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:572][668]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:588][669]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:589][669]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:605][670]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:605][670]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:621][671]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:621][671]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:637][672]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:637][672]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:653][673]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:653][673]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:669][674]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:669][674]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:686][675]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:686][675]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:702][676]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:702][676]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:718][677]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:718][677]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:734][678]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:734][678]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:750][679]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:750][679]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:766][680]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:766][680]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:782][681]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:782][681]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:798][682]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:798][682]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:814][683]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:814][683]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:830][684]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:830][684]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:846][685]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:846][685]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:862][686]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:862][686]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:879][687]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:879][687]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:895][688]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:895][688]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:911][689]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:911][689]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:927][690]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:927][690]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:943][691]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:943][691]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:959][692]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:960][692]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:976][693]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:976][693]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.13:992][694]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.13:992][694]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:008][695]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:008][695]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:024][696]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:024][696]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:040][697]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:040][697]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:057][698]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:057][698]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:073][699]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:073][699]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:089][700]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:089][700]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:105][701]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:105][701]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:121][702]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:121][702]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:137][703]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:137][703]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:153][704]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:153][704]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:169][705]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:169][705]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:185][706]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:185][706]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:201][707]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:201][707]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:217][708]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:217][708]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:233][709]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:233][709]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:250][710]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:250][710]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:266][711]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:266][711]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:282][712]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:282][712]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:298][713]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:298][713]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:314][714]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:314][714]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:330][715]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:330][715]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:347][716]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:347][716]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:363][717]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:363][717]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:379][718]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:379][718]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:395][719]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:395][719]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:411][720]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:411][720]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:427][721]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:427][721]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:444][722]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:444][722]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:460][723]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:460][723]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:476][724]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:476][724]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:492][725]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:492][725]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:508][726]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:508][726]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:523][727]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:524][727]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:540][728]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:540][728]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:556][729]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:556][729]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:572][730]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:572][730]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:588][731]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:588][731]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:604][732]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:604][732]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:621][733]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:621][733]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:637][734]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:637][734]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:653][735]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:653][735]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:670][736]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:670][736]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:686][737]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:686][737]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:702][738]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:702][738]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:718][739]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:718][739]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:734][740]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:734][740]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:750][741]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:750][741]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:766][742]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:766][742]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:782][743]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:782][743]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:798][744]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:798][744]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:815][745]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:815][745]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:831][746]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:831][746]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:847][747]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:847][747]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:863][748]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:863][748]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:879][749]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:879][749]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:896][750]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:896][750]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:911][751]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:911][751]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:927][752]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:927][752]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:943][753]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:943][753]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:959][754]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:959][754]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:975][755]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:975][755]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.14:991][756]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.14:992][756]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:008][757]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:008][757]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:024][758]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:024][758]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:040][759]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:040][759]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:056][760]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:056][760]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:072][761]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:072][761]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:089][762]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:089][762]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:105][763]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:105][763]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:106][764]LogScript: Warning: Script Msg: FindSessionsCallback - Invalid player state
+[2018.10.06-18.14.15:121][764]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:121][764]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:137][765]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:137][765]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:153][766]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:153][766]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:169][767]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:169][767]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:186][768]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:186][768]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:202][769]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:202][769]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:218][770]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:218][770]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:234][771]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:234][771]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:250][772]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:250][772]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:266][773]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:266][773]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:282][774]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:282][774]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:298][775]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:298][775]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:314][776]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:314][776]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:330][777]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:330][777]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:346][778]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:346][778]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:362][779]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:362][779]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:379][780]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:379][780]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:395][781]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:395][781]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:411][782]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:411][782]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:427][783]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:427][783]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:443][784]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:443][784]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:459][785]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:460][785]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:476][786]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:476][786]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:492][787]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:492][787]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:508][788]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:508][788]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:524][789]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:524][789]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:540][790]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:540][790]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:557][791]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:557][791]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:573][792]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:573][792]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:589][793]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:589][793]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:605][794]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:605][794]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:621][795]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:621][795]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:637][796]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:637][796]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:653][797]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:653][797]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:669][798]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:669][798]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:685][799]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:685][799]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:701][800]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:701][800]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:717][801]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:717][801]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:733][802]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:733][802]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:750][803]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:750][803]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:766][804]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:766][804]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:782][805]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:782][805]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:798][806]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:798][806]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:814][807]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:814][807]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:831][808]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:831][808]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:847][809]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:847][809]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:863][810]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:863][810]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:879][811]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:879][811]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:895][812]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:895][812]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:911][813]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:911][813]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:927][814]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:927][814]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:943][815]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:943][815]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:959][816]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:959][816]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:976][817]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:976][817]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.15:992][818]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.15:992][818]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:008][819]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 568.193359
+[2018.10.06-18.14.16:008][819]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:024][820]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 552.386719
+[2018.10.06-18.14.16:024][820]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:040][821]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 537.193359
+[2018.10.06-18.14.16:040][821]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:056][822]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 521.386719
+[2018.10.06-18.14.16:056][822]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:072][823]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 505.193146
+[2018.10.06-18.14.16:072][823]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:088][824]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 489.193146
+[2018.10.06-18.14.16:088][824]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:104][825]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 473.386292
+[2018.10.06-18.14.16:104][825]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:121][826]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 458.193146
+[2018.10.06-18.14.16:121][826]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:137][827]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 442.386505
+[2018.10.06-18.14.16:137][827]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:153][828]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 426.193359
+[2018.10.06-18.14.16:153][828]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:170][829]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 410.386719
+[2018.10.06-18.14.16:170][829]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:186][830]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 394.193146
+[2018.10.06-18.14.16:186][830]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:202][831]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 378.386505
+[2018.10.06-18.14.16:202][831]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:217][832]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 363.193146
+[2018.10.06-18.14.16:217][832]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:234][833]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 347.386292
+[2018.10.06-18.14.16:234][833]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:250][834]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 331.193359
+[2018.10.06-18.14.16:250][834]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:266][835]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 315.386505
+[2018.10.06-18.14.16:266][835]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:282][836]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 299.193359
+[2018.10.06-18.14.16:282][836]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:298][837]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 284.193359
+[2018.10.06-18.14.16:299][837]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:315][838]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 268.386719
+[2018.10.06-18.14.16:315][838]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:330][839]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 252.193375
+[2018.10.06-18.14.16:330][839]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:347][840]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 236.193375
+[2018.10.06-18.14.16:347][840]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:363][841]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 220.193375
+[2018.10.06-18.14.16:363][841]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:379][842]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 204.386749
+[2018.10.06-18.14.16:379][842]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:395][843]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 189.19313
+[2018.10.06-18.14.16:395][843]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:411][844]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 173.386261
+[2018.10.06-18.14.16:411][844]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:427][845]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 157.193375
+[2018.10.06-18.14.16:427][845]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:444][846]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 141.386749
+[2018.10.06-18.14.16:444][846]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:460][847]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 126.193375
+[2018.10.06-18.14.16:460][847]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:476][848]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 110.386742
+[2018.10.06-18.14.16:476][848]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:492][849]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 94.193367
+[2018.10.06-18.14.16:492][849]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:508][850]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 78.193375
+[2018.10.06-18.14.16:508][850]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:524][851]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 62.386505
+[2018.10.06-18.14.16:524][851]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:541][852]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 47.193375
+[2018.10.06-18.14.16:541][852]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:557][853]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 31.386745
+[2018.10.06-18.14.16:557][853]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:573][854]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 15.193132
+[2018.10.06-18.14.16:573][854]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:589][855]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] -0.80663
+[2018.10.06-18.14.16:589][855]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:604][856]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] -16.613499
+[2018.10.06-18.14.16:604][856]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:620][857]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] -31.806868
+[2018.10.06-18.14.16:620][857]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:637][858]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] -47.80687
+[2018.10.06-18.14.16:637][858]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:653][859]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] -63.806629
+[2018.10.06-18.14.16:653][859]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:669][860]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] -79.80687
+[2018.10.06-18.14.16:669][860]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:685][861]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] -95.613503
+[2018.10.06-18.14.16:685][861]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:701][862]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] -110.80687
+[2018.10.06-18.14.16:701][862]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:717][863]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] -126.806625
+[2018.10.06-18.14.16:717][863]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:734][864]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] -142.80687
+[2018.10.06-18.14.16:734][864]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:751][865]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] -158.613739
+[2018.10.06-18.14.16:751][865]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:766][866]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] -174.80687
+[2018.10.06-18.14.16:766][866]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:782][867]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] -190.613739
+[2018.10.06-18.14.16:782][867]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:798][868]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] -205.806625
+[2018.10.06-18.14.16:798][868]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:815][869]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] -221.806625
+[2018.10.06-18.14.16:815][869]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:831][870]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] -237.613495
+[2018.10.06-18.14.16:831][870]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:847][871]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] -253.806625
+[2018.10.06-18.14.16:847][871]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:863][872]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] -269.613251
+[2018.10.06-18.14.16:863][872]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:879][873]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] -284.806854
+[2018.10.06-18.14.16:879][873]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:895][874]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] -300.613495
+[2018.10.06-18.14.16:895][874]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:912][875]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] -316.806641
+[2018.10.06-18.14.16:912][875]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:928][876]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] -332.806641
+[2018.10.06-18.14.16:928][876]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:944][877]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] -348.806854
+[2018.10.06-18.14.16:944][877]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:960][878]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] -363.806641
+[2018.10.06-18.14.16:960][878]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:975][879]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] -379.613281
+[2018.10.06-18.14.16:975][879]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.16:991][880]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] -395.806854
+[2018.10.06-18.14.16:992][880]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:008][881]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] -411.613708
+[2018.10.06-18.14.17:008][881]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:024][882]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] -427.806641
+[2018.10.06-18.14.17:024][882]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:040][883]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] -443.613281
+[2018.10.06-18.14.17:040][883]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:056][884]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] -458.806641
+[2018.10.06-18.14.17:056][884]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:072][885]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] -474.806641
+[2018.10.06-18.14.17:072][885]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:089][886]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] -490.806641
+[2018.10.06-18.14.17:089][886]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:105][887]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] -506.613495
+[2018.10.06-18.14.17:105][887]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:121][888]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] -521.806885
+[2018.10.06-18.14.17:121][888]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:137][889]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] -537.613525
+[2018.10.06-18.14.17:137][889]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:153][890]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] -553.806641
+[2018.10.06-18.14.17:153][890]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:169][891]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] -569.613525
+[2018.10.06-18.14.17:169][891]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:185][892]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] -585.806641
+[2018.10.06-18.14.17:186][892]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:202][893]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:202][893]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:218][894]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] -601.0
+[2018.10.06-18.14.17:218][894]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:234][895]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:234][895]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:250][896]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:250][896]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:266][897]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:266][897]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:282][898]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:283][898]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:299][899]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:299][899]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:315][900]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:315][900]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:331][901]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:331][901]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:346][902]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:346][902]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:362][903]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:362][903]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:379][904]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:379][904]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:395][905]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:395][905]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:411][906]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:411][906]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:427][907]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:427][907]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:443][908]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:443][908]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:459][909]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:459][909]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:476][910]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:476][910]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:492][911]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:492][911]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:508][912]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:508][912]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:524][913]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:524][913]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:540][914]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:540][914]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:556][915]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:556][915]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:572][916]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:572][916]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:588][917]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:588][917]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:604][918]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:604][918]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:621][919]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:621][919]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:637][920]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:637][920]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:653][921]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:653][921]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:670][922]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:670][922]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:686][923]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:686][923]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:702][924]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:702][924]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:717][925]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:717][925]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:733][926]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:733][926]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:750][927]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:750][927]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:766][928]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:766][928]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:782][929]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:782][929]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:798][930]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:799][930]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:815][931]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:815][931]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:831][932]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:831][932]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:847][933]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:847][933]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:863][934]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:863][934]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:879][935]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:879][935]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:896][936]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:896][936]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:911][937]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:911][937]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:927][938]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:927][938]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:943][939]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:943][939]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:959][940]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:959][940]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:975][941]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:975][941]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.17:992][942]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.17:992][942]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:008][943]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:008][943]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:024][944]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:024][944]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:040][945]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:040][945]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:056][946]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:056][946]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:072][947]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:072][947]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:089][948]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:089][948]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:105][949]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:105][949]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:121][950]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:121][950]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:137][951]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:137][951]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:153][952]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:153][952]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:169][953]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:169][953]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:186][954]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:186][954]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:202][955]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:202][955]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:218][956]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:218][956]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:234][957]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:234][957]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:250][958]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:250][958]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:266][959]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:266][959]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:282][960]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:282][960]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:298][961]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:298][961]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:314][962]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:314][962]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:330][963]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:330][963]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:346][964]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:346][964]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:362][965]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:362][965]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:379][966]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:379][966]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:395][967]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:395][967]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:411][968]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:411][968]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:427][969]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:427][969]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:443][970]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:443][970]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:460][971]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:460][971]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:476][972]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:476][972]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:492][973]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:492][973]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:508][974]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:508][974]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:524][975]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:524][975]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:540][976]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:540][976]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:557][977]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:557][977]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:573][978]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:573][978]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:589][979]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:589][979]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:605][980]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:605][980]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:621][981]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:621][981]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:637][982]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:638][982]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:654][983]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:654][983]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:669][984]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:669][984]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:685][985]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:685][985]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:701][986]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:701][986]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:717][987]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:717][987]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:734][988]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:734][988]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:750][989]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:750][989]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:766][990]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:766][990]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:782][991]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:782][991]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:798][992]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:798][992]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:814][993]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:814][993]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:831][994]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:831][994]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:847][995]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:847][995]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:863][996]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:863][996]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:879][997]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:879][997]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:895][998]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:895][998]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:911][999]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:911][999]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:928][  0]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:928][  0]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:944][  1]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:944][  1]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:959][  2]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:959][  2]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:976][  3]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:976][  3]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.18:992][  4]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.18:992][  4]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:008][  5]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:008][  5]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:024][  6]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:024][  6]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:040][  7]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:040][  7]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:056][  8]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:056][  8]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:072][  9]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:072][  9]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:088][ 10]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:088][ 10]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:104][ 11]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:104][ 11]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:121][ 12]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:121][ 12]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:137][ 13]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:137][ 13]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:153][ 14]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:153][ 14]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:170][ 15]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:170][ 15]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:186][ 16]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:186][ 16]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:202][ 17]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:202][ 17]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:218][ 18]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:218][ 18]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:233][ 19]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:233][ 19]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:250][ 20]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:250][ 20]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:266][ 21]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:266][ 21]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:282][ 22]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:282][ 22]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:298][ 23]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:299][ 23]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:315][ 24]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:315][ 24]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:331][ 25]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:331][ 25]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:347][ 26]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:347][ 26]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:363][ 27]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:363][ 27]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:379][ 28]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:379][ 28]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:395][ 29]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:396][ 29]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:412][ 30]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:412][ 30]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:427][ 31]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:427][ 31]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:443][ 32]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:443][ 32]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:459][ 33]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:459][ 33]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:475][ 34]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:475][ 34]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:492][ 35]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:492][ 35]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:508][ 36]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:508][ 36]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:524][ 37]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:524][ 37]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:540][ 38]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:540][ 38]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:556][ 39]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:556][ 39]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:572][ 40]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:572][ 40]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:589][ 41]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:589][ 41]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:605][ 42]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:605][ 42]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:621][ 43]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:621][ 43]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:637][ 44]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:637][ 44]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:653][ 45]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:653][ 45]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:669][ 46]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:669][ 46]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:686][ 47]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:686][ 47]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:702][ 48]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:702][ 48]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:718][ 49]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:718][ 49]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:734][ 50]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:734][ 50]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:750][ 51]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:750][ 51]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:767][ 52]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:767][ 52]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:783][ 53]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:783][ 53]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:798][ 54]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:798][ 54]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:814][ 55]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:814][ 55]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:830][ 56]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:830][ 56]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:846][ 57]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:846][ 57]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:863][ 58]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:863][ 58]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:879][ 59]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:879][ 59]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:895][ 60]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:895][ 60]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:911][ 61]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:911][ 61]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:927][ 62]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:927][ 62]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:943][ 63]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:943][ 63]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:960][ 64]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:960][ 64]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:976][ 65]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:976][ 65]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.19:992][ 66]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.19:992][ 66]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:008][ 67]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:008][ 67]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:024][ 68]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:024][ 68]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:040][ 69]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:040][ 69]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:057][ 70]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:057][ 70]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:073][ 71]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:073][ 71]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:089][ 72]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:089][ 72]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:105][ 73]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:105][ 73]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:121][ 74]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:121][ 74]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:137][ 75]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:137][ 75]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:154][ 76]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:154][ 76]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:169][ 77]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:169][ 77]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:185][ 78]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:185][ 78]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:201][ 79]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:201][ 79]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:217][ 80]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:217][ 80]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:233][ 81]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:233][ 81]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:250][ 82]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:250][ 82]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:266][ 83]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:266][ 83]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:282][ 84]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:282][ 84]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:298][ 85]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:298][ 85]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:314][ 86]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:314][ 86]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:330][ 87]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:331][ 87]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:347][ 88]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:347][ 88]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:363][ 89]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:363][ 89]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:379][ 90]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:379][ 90]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:395][ 91]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:395][ 91]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:411][ 92]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:411][ 92]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:428][ 93]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:428][ 93]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:444][ 94]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:444][ 94]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:460][ 95]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:460][ 95]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:476][ 96]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:476][ 96]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:492][ 97]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:492][ 97]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:508][ 98]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:508][ 98]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:525][ 99]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:525][ 99]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:540][100]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:540][100]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:556][101]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:556][101]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:572][102]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:572][102]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:588][103]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:588][103]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:604][104]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:605][104]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:621][105]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:621][105]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:637][106]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:637][106]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:653][107]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:653][107]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:670][108]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:670][108]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:686][109]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:686][109]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:702][110]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:702][110]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:718][111]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:718][111]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:733][112]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:733][112]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:749][113]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:749][113]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:766][114]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:766][114]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:782][115]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:782][115]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:799][116]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:799][116]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:815][117]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:815][117]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:831][118]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:831][118]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:847][119]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:847][119]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:863][120]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:863][120]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:879][121]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:879][121]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:896][122]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:896][122]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:912][123]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:912][123]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:927][124]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:927][124]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:943][125]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:943][125]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:959][126]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:959][126]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:975][127]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:975][127]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.20:992][128]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.20:992][128]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.21:008][129]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.21:008][129]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.21:024][130]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.21:024][130]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.21:040][131]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] 0.0
+[2018.10.06-18.14.21:040][131]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2018.10.06-18.14.21:057][132]LogNet: Warning: Network Failure: GameNetDriver[FailureReceived]: Host closed the connection.
+[2018.10.06-18.14.21:057][132]LogNet: NetworkFailure: FailureReceived, Error: 'Host closed the connection.'
+[2018.10.06-18.14.21:057][132]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.0.10:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-IN8IR7B-43AA6DD147F98ADA4CBCA2B694C7A999, Channels: 10, Time: 2018.10.06-18.14.21
+[2018.10.06-18.14.21:057][132]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.0.10:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-IN8IR7B-43AA6DD147F98ADA4CBCA2B694C7A999
+[2018.10.06-18.14.21:057][132]LogNet: Warning: Network Failure: GameNetDriver[ConnectionLost]: Your connection to the host has been lost.
+[2018.10.06-18.14.21:057][132]LogNet: NetworkFailure: ConnectionLost, Error: 'Your connection to the host has been lost.'
+[2018.10.06-18.14.21:072][133]LogNet: Browse: /Game/Map/MainMenu?closed
+[2018.10.06-18.14.21:073][133]LogNet: Connection failed; returning to Entry
+[2018.10.06-18.14.21:073][133]LogLoad: LoadMap: /Game/Map/MainMenu?closed
+[2018.10.06-18.14.21:073][133]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2018.10.06-18.14.21:073][133]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2018.10.06-18.14.21:073][133]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2018.10.06-18.14.21:097][133]LogAIModule: Creating AISystem for world MainMenu
+[2018.10.06-18.14.21:097][133]LogLoad: Game class is 'MenuGameMode_C'
+[2018.10.06-18.14.21:098][133]LogWorld: Bringing World /Game/Map/MainMenu.MainMenu up for play (max tick rate 0) at 2018.10.06-19.14.21
+[2018.10.06-18.14.21:098][133]LogWorld: Bringing up level for play took: 0.000248
+[2018.10.06-18.14.21:098][133]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.06-18.14.21:099][133]LogLoad: Took 0.026009 seconds to LoadMap(/Game/Map/MainMenu)
+[2018.10.06-18.14.21:625][164]LogSlate: Window 'BattleRoyale (64-bit Development PCD3D_SM5) ' being destroyed
+[2018.10.06-18.14.21:625][164]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.06-18.14.21:632][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.06-18.14.21:632][164]LogEngine: All Windows Closed
+[2018.10.06-18.14.21:632][164]LogWindows: FPlatformMisc::RequestExit(0)
+[2018.10.06-18.14.22:184][165]LogExit: Preparing to exit.
+[2018.10.06-18.14.22:184][165]LogMoviePlayer: Shutting down movie player
+[2018.10.06-18.14.22:191][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.06-18.14.22:196][165]LogExit: Game engine shut down
+[2018.10.06-18.14.22:263][165]LogExit: Object subsystem successfully closed.
+[2018.10.06-18.14.22:283][165]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.10.06-18.14.22:284][165]LogD3D11RHI: Shutdown
+[2018.10.06-18.14.22:284][165]LogD3D11RHI: CleanupD3DDevice
+[2018.10.06-18.14.22:286][165]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.10.06-18.14.22:290][165]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (378)
+[2018.10.06-18.14.22:290][165]LogModuleManager: Shutting down and abandoning module SequenceRecorder (376)
+[2018.10.06-18.14.22:290][165]LogModuleManager: Shutting down and abandoning module AutomationController (374)
+[2018.10.06-18.14.22:290][165]LogModuleManager: Shutting down and abandoning module AutomationWorker (372)
+[2018.10.06-18.14.22:290][165]LogModuleManager: Shutting down and abandoning module Voice (370)
+[2018.10.06-18.14.22:290][165]LogModuleManager: Shutting down and abandoning module AIModule (368)
+[2018.10.06-18.14.22:290][165]LogModuleManager: Shutting down and abandoning module GameplayDebugger (367)
+[2018.10.06-18.14.22:290][165]LogModuleManager: Shutting down and abandoning module AITestSuite (365)
+[2018.10.06-18.14.22:290][165]LogModuleManager: Shutting down and abandoning module NavigationSystem (363)
+[2018.10.06-18.14.22:290][165]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (360)
+[2018.10.06-18.14.22:290][165]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (358)
+[2018.10.06-18.14.22:290][165]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (356)
+[2018.10.06-18.14.22:290][165]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (354)
+[2018.10.06-18.14.22:290][165]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (352)
+[2018.10.06-18.14.22:290][165]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (350)
+[2018.10.06-18.14.22:290][165]LogModuleManager: Shutting down and abandoning module CharacterAI (348)
+[2018.10.06-18.14.22:290][165]LogModuleManager: Shutting down and abandoning module SessionServices (346)
+[2018.10.06-18.14.22:290][165]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (344)
+[2018.10.06-18.14.22:290][165]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (342)
+[2018.10.06-18.14.22:290][165]LogModuleManager: Shutting down and abandoning module MovieScene (340)
+[2018.10.06-18.14.22:290][165]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (338)
+[2018.10.06-18.14.22:290][165]LogModuleManager: Shutting down and abandoning module PortalServices (336)
+[2018.10.06-18.14.22:290][165]LogModuleManager: Shutting down and abandoning module PortalRpc (334)
+[2018.10.06-18.14.22:290][165]LogModuleManager: Shutting down and abandoning module MessagingRpc (332)
+[2018.10.06-18.14.22:290][165]LogModuleManager: Shutting down and abandoning module ProfilerService (330)
+[2018.10.06-18.14.22:421][165]LogModuleManager: Shutting down and abandoning module TaskGraph (328)
+[2018.10.06-18.14.22:421][165]LogModuleManager: Shutting down and abandoning module SteamVRController (326)
+[2018.10.06-18.14.22:421][165]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (324)
+[2018.10.06-18.14.22:421][165]LogModuleManager: Shutting down and abandoning module OculusInput (322)
+[2018.10.06-18.14.22:421][165]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (320)
+[2018.10.06-18.14.22:421][165]LogModuleManager: Shutting down and abandoning module EditableMesh (318)
+[2018.10.06-18.14.22:421][165]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (316)
+[2018.10.06-18.14.22:421][165]LogModuleManager: Shutting down and abandoning module CableComponent (314)
+[2018.10.06-18.14.22:421][165]LogModuleManager: Shutting down and abandoning module AudioCapture (312)
+[2018.10.06-18.14.22:421][165]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (310)
+[2018.10.06-18.14.22:421][165]LogModuleManager: Shutting down and abandoning module AndroidPermission (308)
+[2018.10.06-18.14.22:421][165]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (306)
+[2018.10.06-18.14.22:421][165]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (304)
+[2018.10.06-18.14.22:422][165]LogModuleManager: Shutting down and abandoning module MediaCompositing (302)
+[2018.10.06-18.14.22:422][165]LogModuleManager: Shutting down and abandoning module LinearTimecode (300)
+[2018.10.06-18.14.22:422][165]LogModuleManager: Shutting down and abandoning module ImgMedia (298)
+[2018.10.06-18.14.22:424][165]LogModuleManager: Shutting down and abandoning module HTML5Networking (296)
+[2018.10.06-18.14.22:425][165]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (294)
+[2018.10.06-18.14.22:425][165]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (293)
+[2018.10.06-18.14.22:425][165]LogModuleManager: Shutting down and abandoning module GeometryCache (290)
+[2018.10.06-18.14.22:425][165]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (289)
+[2018.10.06-18.14.22:425][165]LogModuleManager: Shutting down and abandoning module BackChannel (286)
+[2018.10.06-18.14.22:425][165]LogModuleManager: Shutting down and abandoning module AppleVision (284)
+[2018.10.06-18.14.22:425][165]LogModuleManager: Shutting down and abandoning module AppleImageUtils (282)
+[2018.10.06-18.14.22:425][165]LogModuleManager: Shutting down and abandoning module DatasmithContent (280)
+[2018.10.06-18.14.22:425][165]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (278)
+[2018.10.06-18.14.22:425][165]LogModuleManager: Shutting down and abandoning module CryptoKeys (276)
+[2018.10.06-18.14.22:425][165]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (274)
+[2018.10.06-18.14.22:425][165]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.10.06-18.14.22:425][165]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (272)
+[2018.10.06-18.14.22:425][165]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (268)
+[2018.10.06-18.14.22:425][165]LogModuleManager: Shutting down and abandoning module UObjectPlugin (266)
+[2018.10.06-18.14.22:425][165]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (264)
+[2018.10.06-18.14.22:425][165]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (262)
+[2018.10.06-18.14.22:425][165]LogModuleManager: Shutting down and abandoning module SourceControl (261)
+[2018.10.06-18.14.22:425][165]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (258)
+[2018.10.06-18.14.22:425][165]LogModuleManager: Shutting down and abandoning module BattleRoyale (256)
+[2018.10.06-18.14.22:425][165]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (254)
+[2018.10.06-18.14.22:425][165]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (252)
+[2018.10.06-18.14.22:425][165]LogModuleManager: Shutting down and abandoning module PhysXVehicles (250)
+[2018.10.06-18.14.22:425][165]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (248)
+[2018.10.06-18.14.22:426][165]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (246)
+[2018.10.06-18.14.22:426][165]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (244)
+[2018.10.06-18.14.22:426][165]LogModuleManager: Shutting down and abandoning module ActorSequence (242)
+[2018.10.06-18.14.22:426][165]LogModuleManager: Shutting down and abandoning module UdpMessaging (240)
+[2018.10.06-18.14.22:426][165]LogModuleManager: Shutting down and abandoning module TcpMessaging (238)
+[2018.10.06-18.14.22:426][165]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (236)
+[2018.10.06-18.14.22:426][165]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (234)
+[2018.10.06-18.14.22:426][165]LogModuleManager: Shutting down and abandoning module FacialAnimation (232)
+[2018.10.06-18.14.22:426][165]LogModuleManager: Shutting down and abandoning module DataValidation (230)
+[2018.10.06-18.14.22:426][165]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (228)
+[2018.10.06-18.14.22:426][165]LogModuleManager: Shutting down and abandoning module TreeMap (227)
+[2018.10.06-18.14.22:426][165]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (224)
+[2018.10.06-18.14.22:426][165]LogModuleManager: Shutting down and abandoning module AISupportModule (222)
+[2018.10.06-18.14.22:426][165]LogModuleManager: Shutting down and abandoning module Paper2D (220)
+[2018.10.06-18.14.22:426][165]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (218)
+[2018.10.06-18.14.22:426][165]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (216)
+[2018.10.06-18.14.22:426][165]LogModuleManager: Shutting down and abandoning module WmfMedia (214)
+[2018.10.06-18.14.22:427][165]LogModuleManager: Shutting down and abandoning module Media (213)
+[2018.10.06-18.14.22:433][165]LogModuleManager: Shutting down and abandoning module PacketHandler (210)
+[2018.10.06-18.14.22:433][165]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (208)
+[2018.10.06-18.14.22:433][165]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (206)
+[2018.10.06-18.14.22:433][165]LogModuleManager: Shutting down and abandoning module MediaAssets (204)
+[2018.10.06-18.14.22:433][165]LogModuleManager: Shutting down and abandoning module Overlay (202)
+[2018.10.06-18.14.22:433][165]LogModuleManager: Shutting down and abandoning module OverlayEditor (201)
+[2018.10.06-18.14.22:433][165]LogModuleManager: Shutting down and abandoning module VREditor (198)
+[2018.10.06-18.14.22:433][165]LogModuleManager: Shutting down and abandoning module StringTableEditor (196)
+[2018.10.06-18.14.22:433][165]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (194)
+[2018.10.06-18.14.22:433][165]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (192)
+[2018.10.06-18.14.22:433][165]LogModuleManager: Shutting down and abandoning module FunctionalTesting (190)
+[2018.10.06-18.14.22:433][165]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (188)
+[2018.10.06-18.14.22:433][165]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (187)
+[2018.10.06-18.14.22:433][165]LogModuleManager: Shutting down and abandoning module UMG (184)
+[2018.10.06-18.14.22:433][165]LogModuleManager: Shutting down and abandoning module UMGEditor (183)
+[2018.10.06-18.14.22:433][165]LogModuleManager: Shutting down and abandoning module Sequencer (182)
+[2018.10.06-18.14.22:433][165]LogModuleManager: Shutting down and abandoning module MessageLog (179)
+[2018.10.06-18.14.22:434][165]LogModuleManager: Shutting down and abandoning module SlateReflector (174)
+[2018.10.06-18.14.22:434][165]LogModuleManager: Shutting down and abandoning module Slate (172)
+[2018.10.06-18.14.22:434][165]LogModuleManager: Shutting down and abandoning module EditorStyle (170)
+[2018.10.06-18.14.22:435][165]LogModuleManager: Shutting down and abandoning module MRMesh (168)
+[2018.10.06-18.14.22:435][165]LogModuleManager: Shutting down and abandoning module Messaging (166)
+[2018.10.06-18.14.22:435][165]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (164)
+[2018.10.06-18.14.22:435][165]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (162)
+[2018.10.06-18.14.22:435][165]LogModuleManager: Shutting down and abandoning module XAudio2 (160)
+[2018.10.06-18.14.22:436][165]LogModuleManager: Shutting down and abandoning module Networking (158)
+[2018.10.06-18.14.22:436][165]LogModuleManager: Shutting down and abandoning module Core (156)
+[2018.10.06-18.14.22:436][165]LogModuleManager: Shutting down and abandoning module LevelSequence (154)
+[2018.10.06-18.14.22:436][165]LogModuleManager: Shutting down and abandoning module KismetCompiler (152)
+[2018.10.06-18.14.22:436][165]LogModuleManager: Shutting down and abandoning module MeshUtilities (150)
+[2018.10.06-18.14.22:436][165]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (149)
+[2018.10.06-18.14.22:436][165]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (148)
+[2018.10.06-18.14.22:436][165]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (147)
+[2018.10.06-18.14.22:436][165]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (145)
+[2018.10.06-18.14.22:436][165]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (143)
+[2018.10.06-18.14.22:436][165]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (141)
+[2018.10.06-18.14.22:436][165]LogModuleManager: Shutting down and abandoning module MaterialBaking (137)
+[2018.10.06-18.14.22:436][165]LogModuleManager: Shutting down and abandoning module DerivedDataCache (132)
+[2018.10.06-18.14.22:886][165]LogDerivedDataCache: Shutdown
+[2018.10.06-18.14.22:886][165]LogModuleManager: Shutting down and abandoning module XGEController (130)
+[2018.10.06-18.14.22:886][165]LogModuleManager: Shutting down and abandoning module TargetPlatform (128)
+[2018.10.06-18.14.22:886][165]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (127)
+[2018.10.06-18.14.22:886][165]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (125)
+[2018.10.06-18.14.22:886][165]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (123)
+[2018.10.06-18.14.22:886][165]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (121)
+[2018.10.06-18.14.22:887][165]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (119)
+[2018.10.06-18.14.22:887][165]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (117)
+[2018.10.06-18.14.22:887][165]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (115)
+[2018.10.06-18.14.22:887][165]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (113)
+[2018.10.06-18.14.22:887][165]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (111)
+[2018.10.06-18.14.22:887][165]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (109)
+[2018.10.06-18.14.22:887][165]LogModuleManager: Shutting down and abandoning module ImageWrapper (108)
+[2018.10.06-18.14.22:887][165]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (105)
+[2018.10.06-18.14.22:887][165]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (103)
+[2018.10.06-18.14.22:887][165]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (101)
+[2018.10.06-18.14.22:887][165]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (99)
+[2018.10.06-18.14.22:887][165]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (97)
+[2018.10.06-18.14.22:887][165]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (95)
+[2018.10.06-18.14.22:887][165]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (93)
+[2018.10.06-18.14.22:887][165]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (91)
+[2018.10.06-18.14.22:887][165]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.10.06-18.14.22:888][165]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.10.06-18.14.22:888][165]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.10.06-18.14.22:888][165]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.10.06-18.14.22:888][165]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.10.06-18.14.22:888][165]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.10.06-18.14.22:888][165]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.10.06-18.14.22:888][165]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.10.06-18.14.22:888][165]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.10.06-18.14.22:889][165]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.10.06-18.14.22:889][165]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.10.06-18.14.22:909][165]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.10.06-18.14.22:940][165]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.10.06-18.14.22:941][165]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.10.06-18.14.22:941][165]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.10.06-18.14.22:941][165]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.10.06-18.14.22:941][165]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.10.06-18.14.22:941][165]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.10.06-18.14.22:941][165]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.10.06-18.14.22:941][165]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.10.06-18.14.22:941][165]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.10.06-18.14.22:941][165]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.10.06-18.14.22:941][165]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.10.06-18.14.22:941][165]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.10.06-18.14.22:941][165]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.10.06-18.14.22:941][165]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.10.06-18.14.22:941][165]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.10.06-18.14.22:941][165]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.10.06-18.14.22:941][165]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.10.06-18.14.22:941][165]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.10.06-18.14.22:941][165]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.10.06-18.14.22:941][165]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.10.06-18.14.22:941][165]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.10.06-18.14.22:941][165]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.10.06-18.14.22:941][165]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.10.06-18.14.22:941][165]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.10.06-18.14.22:941][165]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.10.06-18.14.22:941][165]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.10.06-18.14.22:941][165]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.10.06-18.14.22:941][165]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.10.06-18.14.22:941][165]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.10.06-18.14.22:941][165]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.10.06-18.14.22:944][165]LogExit: Exiting.
+[2018.10.06-18.14.22:951][165]Log file closed, 10/06/18 19:14:22
